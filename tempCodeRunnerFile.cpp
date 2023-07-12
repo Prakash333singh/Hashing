@@ -1,0 +1,1 @@
+ findSymPairs(arr, 5);
